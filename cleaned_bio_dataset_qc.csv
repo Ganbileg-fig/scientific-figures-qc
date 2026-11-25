@@ -1,0 +1,12 @@
+Sample_ID,Gene_Symbol_Clean,Organism_Clean,Concentration_uM_Clean,Expression_Fold_Clean,Collection_Date_Clean,QC_Flag
+S01,MARCH1,Homo sapiens,10.0,2.45,2026-03-14,PASS
+S02,SEPTIN2,Escherichia coli,25.5,1.12,2026-03-14,PASS
+S03,PTGS2,Mus musculus,,3.8,2026-03-14,REVIEW_MISSING_VALUE
+S04,IL6,Homo sapiens,50.0,4.15,2026-03-14,PASS
+S05,TNF,Escherichia coli,,0.95,2026-03-14,REVIEW_MISSING_VALUE
+S06,PPARG,Mus musculus,12.0,-1.85,2026-03-14,PASS
+S07,SEPT2,Homo sapiens,100.0,5.2,2026-03-15,PASS
+S08,MARCH1,Escherichia coli,,1.05,2026-03-15,REVIEW_MISSING_VALUE
+S09,SOD2,Homo sapiens,5.0,1.9,2026-03-16,PASS
+S10,CAT,Mus musculus,20.0,2.1,2026-03-16,PASS
+S05,TNF,Escherichia coli,50.0,0.95,2026-03-14,PASS

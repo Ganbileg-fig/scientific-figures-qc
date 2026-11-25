@@ -1,0 +1,12 @@
+Sample_ID,Gene_Symbol,Organism,Concentration_uM,Expression_Fold,Collection_Date
+S01,1-Mar,Homo sapiens,10,2.45,2026/03/14
+S02,SEPT2,e. coli,25.5,1.12,14-03-2026
+S03,cox2,Mus musculus,N/A,3.80,2026.03.14
+S04,IL6,H. sapiens,50,4.15,"Mar 14, 2026"
+S05,TNF-alpha,E. coli,#DIV/0!,0.95,2026-03-14
+S06,PPARG,mus musculus,12.0,-1.85,03/14/2026
+S07,2-Sep,Homo Sapiens,100,5.20,2026-03-15
+S08,MARCH1,e.coli,nd,1.05,15/03/2026
+S09,SOD2,H. sapiens,5.0,1.90,2026-03-16
+S10,CAT,Mus musculus,20,2.10,2026-03-16
+S05,TNF-alpha,E. coli,50,0.95,2026-03-14
